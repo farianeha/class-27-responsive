@@ -1,0 +1,342 @@
+
+@media (max-width:1032px) {
+    .fix-width {
+        width: 100%;
+        margin: auto;
+        max-width: 100%;
+        padding: 0 36px;
+        box-sizing: border-box;
+    }
+    .header-section .logo {
+        width: 40%;
+    }
+    .header-section .menu {
+        width: 60%;
+        text-align: right;
+    }
+    .service-section {
+        padding: 40px 0;
+    }
+    .service-items {
+        margin-top: 19px;
+    }
+    .div1 {
+        width: 19%;
+        margin: 0px 27px;
+    }
+    .about-section {
+        padding: 30px 0;
+    }
+    .about-items {
+        padding: 20px 0;
+    }
+}
+
+@media (max-width:973px) {
+    .div1 {
+        width: 18%;
+        margin: 0px 28px;
+    }
+    .div1 h4 {
+        font-size: 18px;
+        margin: 12px 0;
+    }
+    .div1 p {
+        line-height: 17px;
+        padding: 0px 2px;
+    }
+}
+
+@media (max-width:948px) {
+    .service-title p {
+        font-size: 17px;
+        margin-top: 17px;
+    }
+    .about-section {
+        padding: 30px 0;
+    }
+    .about-title p {
+        width: 70%;
+        margin: auto;
+        padding: 5px 0;
+    }
+    .about-img {
+        padding-top: 36px;
+    }
+}
+
+
+@media (max-width:926px) {
+    .header-section .menu ul li a {
+        padding: 15px 7px;
+        font-size: 16px;
+    }
+    .service-section {
+        padding: 30px 0;
+    }
+    .service-section .service-title {
+        margin-bottom: 15px;
+    }
+    .div1 {
+        width: 44%;
+        margin-right: 2%;
+        margin-bottom: 20px;
+    }
+    .div1 p {
+        width: 80%;
+        margin: auto;
+    }
+    .service-items {
+        margin-top: 25px;
+    }
+}
+
+@media (max-width:900px) {
+    .header-section .menu ul li a {
+        font-size: 15px;
+    }
+}
+
+@media (max-width:892px) {
+    .header-section {
+        padding: 5px 10px;
+    }
+    .header-section .logo {
+        width: 100%;
+        text-align: center;
+    }
+    .header-section .menu {
+        width: 100%;
+        text-align: center;
+    }
+    .header-section .menu ul li a {
+        padding: 15px 10px;
+        font-size: 16px;
+    }
+    .service-title p {
+        font-size: 17px;
+        width: 60%;
+        margin: auto;
+    }
+    .about-blog p {
+        font-size: 14px;
+    }
+    
+}
+
+@media (max-width:798px) {
+    .about-img {
+        width: 100%;
+        text-align: center;
+    }
+    .about-items {
+        padding: 0px 0;
+    }
+    .about-img {
+        padding-top: 20px;
+    }
+    .about-blog {
+        width: 100%;
+    }
+    .about-blog h2 {
+        text-align: center;
+    }
+    .about-blog p {
+        font-size: 14px;
+        width: 78%;
+    }
+}
+
+@media (max-width:774px) {
+    .div1 {
+        width: 42%;
+        margin-right: 1%;
+    }
+    .about-blog {
+        margin-left: 146px;
+    }
+    .about-blog h2 {
+        text-align: center;
+    }
+    .about-blog p {
+        text-align: center;
+    }
+}
+
+@media (max-width:737px) {
+    .banner-section {
+        padding: 145px 0;
+    }
+    .banner-section h1 {
+        font-size: 44px;
+    }
+    .banner-section h4 {
+        font-size: 17px;
+    }
+    .banner-section a {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .service-section {
+        padding: 50px 0;
+    }
+    .service-title p {
+        font-size: 14px;
+        margin-top: 5px;
+    }
+    .contact-section {
+        padding: 20px 0;
+    }
+    .contact-title {
+        padding-top: 0px;
+        padding-bottom: 12px;
+    }
+    .contact-title p {
+        color: #c1c1c1;
+        font-size: 16px;
+        margin: 6px 0;
+    }
+    .contact-items p {
+        font-size: 14px;
+    }
+    span i {
+        font-size: 31px;
+        color: white;
+        margin: 0px 8px;
+    }
+    .footer-section {
+        padding: 10px;
+    }
+    .footer-section p {
+        font-size: 13px;
+    }
+
+}
+
+@media (max-width:635px) {
+    .div1 {
+        width: 42%;
+        margin-right: 1%;
+    }
+    .service-section {
+        padding: 25px 0;
+    }
+}
+
+@media (max-width:593px) {
+    .header-section .menu ul li a {
+        padding: 15px 7px;
+        font-size: 15px;
+    }
+    .banner-section {
+        background: url("https://i.ibb.co/SwFhr01/header-bg01.jpg") no-repeat center;
+        padding: 76px 0;
+    }
+    .banner-section h1 {
+        font-size: 37px;
+    }
+    .banner-section h4 {
+        font-size: 15px;
+    }
+    .banner-section a {
+        margin-top: 8px;
+        font-size: 12px;
+    }
+    .about-title p {
+        font-size: 14px;
+    }
+    .about-items {
+        padding: 25px 0;
+    }
+}
+
+@media (max-width:525px) {
+    .header-section .menu ul li a {
+        padding: 10px 21px;
+        font-size: 17px;
+    }
+}
+@media (max-width:475px) {
+    .div1 {
+        width: 100%;
+        margin: auto;
+        padding-bottom: 24px;
+    }
+    .div1 h4 {
+        margin: 5px 0;
+    }
+}
+
+@media (max-width:441px) {
+    .banner-section {
+        padding: 61px 0;
+    }
+    .banner-section h1 {
+        font-size: 30px;
+    }
+    .banner-section a {
+        margin-top: 7px;
+        font-size: 9px;
+    }
+    .banner-section {
+        padding: 61px 0;
+    }
+    .banner-section h1 {
+        font-size: 30px;
+    }
+    .service-section {
+        padding: 15px 0;
+    }
+    .service-title p {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+    .contact-title h2 {
+        font-size: 31px;
+    }
+    .contact-title p {
+        font-size: 12px;
+    }
+    .contact-items i {
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+    .contact-items p {
+        font-size: 10px;
+    }
+    .icon-bar-section {
+        padding: 7px 0;
+    }
+    
+}
+
+
+@media (max-width:387px) {
+    .header-section .logo h3 {
+        font-size: 35px;
+    }
+    .header-section .menu ul li a {
+        font-size: 16px;
+    }
+    .banner-section h1 {
+        font-size: 25px;
+    }
+    .banner-section a {
+        margin-top: 7px;
+        font-size: 8px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
